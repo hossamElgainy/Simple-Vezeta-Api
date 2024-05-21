@@ -10,7 +10,7 @@
 * Managing His Booking Requests 
 * Managing His AppointMent Times
 ### Patient Can:
-* Register Ang Login To The System
+* Register And Login To The System
 * Get All Doctors And Searching For A Specific Doctor
 * Made A Booking Request
 * Managing His Booking Requests 
